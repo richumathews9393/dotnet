@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "KnAizQsEP+pMVOjaYqDhXt7+v0PrRhHU1sPtab0Fjd8=",
+  "Source": "CustomWebAPI",
+  "BasePath": "_content/CustomWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
